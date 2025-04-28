@@ -1,7 +1,13 @@
-node_modules
+node_modules/
+**/node_modules/
+frontend/node_modules/
 coverage
 .nyc_output
 .DS_Store
 .idea/*
+**/.next
 yarn.lock
 package-lock.json
+.env
+.DS_Store
+.vscode/
