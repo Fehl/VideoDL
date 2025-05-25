@@ -1,6 +1,6 @@
 # VideoDL
 
-A simple full-stack web app that lets users download YouTube videos or audio (MP4/MP3) in the desired quality. Built with Next.js frontend, NodeJS and Express backend, and FFmpeg for stream processing.
+A simple full-stack web app that lets users download YouTube videos or audio (MP4/MP3) in the desired quality. Built with Next.js and Express, and FFmpeg for stream processing.
 
 ---
 
